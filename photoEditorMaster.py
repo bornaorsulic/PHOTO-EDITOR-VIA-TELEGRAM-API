@@ -307,14 +307,9 @@ def selecting_photos(api_url, api_token, chat_id):
      
 
 def main():
-    api_url = "https://api.telegram.org/bot6687977136:AAHb66cmBIF10uzbaefw1SDt3ZlxuwfOUmE/getUpdates"
-    api_token = "6687977136:AAHb66cmBIF10uzbaefw1SDt3ZlxuwfOUmE"
-    chat_id = '-1001948827740'
-    '''
     api_token = "YOUR API TOKEN"
     api_url = f"https://api.telegram.org/bot{api_token}/getUpdates"
     chat_id = 'YOUR CHAT ID'
-    '''
 
     get_photos(api_url, api_token)
 
@@ -328,4 +323,3 @@ def main():
 
 if __name__=='__main__':
     main()
-    # cd C:\Users\borna\OneDrive\Desktop\PhotoEditor
