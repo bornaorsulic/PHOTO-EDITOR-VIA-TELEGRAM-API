@@ -215,6 +215,9 @@ def main():
     api_url = f"https://api.telegram.org/bot{api_token}/getUpdates"
     chat_id = 'YOUR CHAT ID'
 
+    if not os.path.exists('images'):
+        os.makedirs('images')
+        
     get_photos(api_url, api_token)
 
     editing()
