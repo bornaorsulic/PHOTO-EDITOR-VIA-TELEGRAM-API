@@ -256,3 +256,5 @@ If you have any questions, suggestions, or feedback about this project, feel fre
   <br/> <br/>
 - **Name**: Luka Taslak
 - **GitHub**: [lukataslak](https://github.com/lukataslak)
+<br/> <br/>
+- Project link: [https://github.com/bornaorsulic/PHOTO-EDITOR-VIA-TELEGRAM-API](https://github.com/bornaorsulic/PHOTO-EDITOR-VIA-TELEGRAM-API)
