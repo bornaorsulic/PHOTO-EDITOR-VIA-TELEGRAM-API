@@ -252,7 +252,6 @@ If you have any questions, suggestions, or feedback about this project, feel fre
 
 - **Name**: Borna Oršulić
 - **GitHub**: [bornaorsulic](https://github.com/bornaorsulic)
-- **Email**: borna.orsulic1@gmail.com
   <br/> <br/>
 - **Name**: Luka Taslak
 - **GitHub**: [lukataslak](https://github.com/lukataslak)
